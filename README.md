@@ -261,5 +261,6 @@ Este proyecto es de uso educativo.
 
 ## 👥 Autores
 
-Grupo de trabajo - Proyecto Final No Relacional
+Bryan Silva
+Reinaldo Cárdenas
 
