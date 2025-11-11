@@ -261,6 +261,6 @@ Este proyecto es de uso educativo.
 
 ## 👥 Autores
 
-Bryan Silva
-Reinaldo Cárdenas
+- Bryan Silva
+- Reinaldo Cárdenas
 
